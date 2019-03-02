@@ -5,5 +5,5 @@
 - src: landing/p1.jpg
   title: first banner image
 
-- src: landing/p10.jpg
-  title: second banner image
+#- src: landing/p10.jpg
+#  title: second banner image
