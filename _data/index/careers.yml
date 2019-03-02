@@ -4,7 +4,7 @@
     detail: University of Nottingham
     i18n: company_a
   desc:
-    detail: Major: BSc. Hons Computer Science with Artificial Intelligence - 1st class
+    detail:  BSc. Hons Computer Science with Artificial Intelligence - 1st class
     i18n: company_a_desc
   date:
     detail: September 2013-June 2017
@@ -15,7 +15,7 @@
     detail: University of Melbourne
     i18n: company_b
   desc:
-    detail: Major: Master of Information Technology (Computing)
+    detail:  Master of Information Technology (Computing)
     i18n: company_b_desc
   date:
     detail: February 2018-December 2019
