@@ -31,12 +31,6 @@
   page: blog/
   css: testimonials navy-section
 
-  - id: game
-  i18n: nav.game
-  name: game
-  tpl: game.html
-  page: blog/
-  css: testimonials navy-section
 
 # - id: links
  # i18n: nav.link
