@@ -31,9 +31,9 @@
   page: blog/
   css: testimonials navy-section
 
- - id: links
+- id: links
   i18n: nav.link
   name: Game
   tpl: links.html
-   css: contact   
+  css: contact   
   
