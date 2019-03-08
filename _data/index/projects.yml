@@ -29,3 +29,10 @@
   repo: bookshare
   img: /static/assets/img/landing/html-5.png
   desc: A website frontend part.
+
+- name: Machine Learning 
+  i18n: cpython
+  gh_user: yiming95
+  repo: Machine-Learning
+  img: /static/assets/img/landing/learning.png
+  desc: Builds ANN and Decision Tree in matlab.
