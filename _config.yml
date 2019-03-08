@@ -5,7 +5,7 @@ title: Yiming
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /yiming # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url:  http://bishopzzz.github.io/yiming # url should be 'http://<github_username>.github.io/homepage' as before
+url:  http://yiming95.github.io/yiming # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /yiming/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: zym1995osl@163.com  # Leave blank if you don't have now
-  cv: https://github.com/BishopZZZ/resume/raw/master/cv.pdf # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://github.com/yiming95/resume/raw/master/cv.pdf # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
