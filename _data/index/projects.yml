@@ -36,3 +36,10 @@
   repo: Machine-Learning
   img: /static/assets/img/landing/learning.png
   desc: Builds ANN and Decision Tree in matlab.
+
+- name: Leetcode
+  i18n: cpython
+  gh_user: yiming95
+  repo: leetcode
+  img: /static/assets/img/landing/leetcode.png
+  desc: Leetcode algorithm questions in java.
