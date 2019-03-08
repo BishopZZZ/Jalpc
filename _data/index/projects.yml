@@ -9,5 +9,10 @@
   img: /static/assets/img/landing/java.png
   desc: This project implement a worker-pool multi-threading architecture with TCP socket Dictionary Server.
 
-
+- name: Scrabble Game
+  i18n: cpython
+  gh_user: yiming95
+  repo: Distributed-Scrabble-Game
+  img: /static/assets/img/landing/java.png
+  desc: A java application that implements a distributed scrabble game.
 
