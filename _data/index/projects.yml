@@ -22,3 +22,10 @@
   repo: approximate-string-matching
   img: /static/assets/img/landing/python1.png
   desc: A python project implements and analyses 6 string mactching algorithms.
+
+- name: Bookshare Frontend
+  i18n: cpython
+  gh_user: yiming95
+  repo: bookshare
+  img: /static/assets/img/landing/html-5.png
+  desc: A website frontend part.
