@@ -16,7 +16,7 @@
   img: /static/assets/img/landing/java.png
   desc: A java application that implements a distributed scrabble game.
 
-- name: Approximate String matching
+- name: NLP Approximate String matching
   i18n: cpython
   gh_user: yiming95
   repo: approximate-string-matching
