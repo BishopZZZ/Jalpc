@@ -7,7 +7,7 @@
   gh_user: yiming95
   repo: dictionary
   img: /static/assets/img/landing/java.png
-  desc: This project implement a worker-pool multi-threading architecture with TCP socket Dictionary Server.
+  desc: A worker-pool multi-threading and TCP socket Dictionary Server.
 
 - name: Scrabble Game
   i18n: cpython
@@ -16,3 +16,9 @@
   img: /static/assets/img/landing/java.png
   desc: A java application that implements a distributed scrabble game.
 
+- name: Approximate String matching
+  i18n: cpython
+  gh_user: yiming95
+  repo: approximate-string-matching
+  img: /static/assets/img/landing/python1.png
+  desc: A python project implements and analyses 6 string mactching algorithms.
