@@ -1,23 +1,40 @@
 ---
 layout: post
-title:  "HTML CSS summary"
-date:   2019-03-16
-desc: "Summarize HTML,CSS basic knowledge"
+title:  "HTML summary"
+date:   2019-03-10
+desc: "Summary on HTML"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [Frontend]
 tags: [Jalpc,Jekyll]
-icon: icon-Frontend
+icon: icon-html
 ---
 
-HTML:
+This is a raw snippet:
 
-head
 ```
-<h1> head </h1>
-<h2> head </h2>
-<h3> head </h3>
+hello world
+123
+This is a text snippet
+```
 
+
+This is a JavaScript snippet:
+
+```
+const add = (a, b) => a + b
+const minus = (a, b) => a - b
+
+console.log(add(100,200))  // 300
+console.log(minus(100,200))  // -100
+```
+
+This is a Python snippet:
+
+```
+def say_hello():
+    print("hello world!")
+
+say_hello()   // "hello world!"
 ```
 
 ---
-
