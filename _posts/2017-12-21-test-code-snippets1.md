@@ -4,7 +4,7 @@ title:  "HTML summary"
 date:   2019-03-10
 desc: "Summary on HTML"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+categories: [Frontend]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
