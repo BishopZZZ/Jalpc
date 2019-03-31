@@ -6,11 +6,11 @@ desc: "Frontend Basics"
 keywords: "JavaScript,website,blog,easy"
 categories: [Frontend]
 tags: [JavaScript]
-icon: icon-JavaScript
+icon: icon-javascript
 ---
 # JavaScript 知识点总结(一)
 
-原始类型：
+**原始类型**：
 Boolean, null, undefined, number, string, symbol
 
 对象类型
@@ -36,7 +36,7 @@ const p2 = test(p1)
 
 所以最后 person 拥有了一个新的地址（指针），也就和 p1 没有任何关系了，导致了最终两个变量的值是不相同的。
 
-typeof 和 instanceof：
+**typeof 和 instanceof**：
 typeof 对于原始类型来说，除了 null 都可以显示正确的类型
 
 ```js
@@ -62,14 +62,14 @@ var str1 = new String('hello world')
 str1 instanceof String // true
 ```
 
-类型转换：
+**类型转换**：
  JS 中类型转换只有三种情况，分别是：
 
 1. 转换为布尔值： 在条件判断时，除了 undefined， null， false， NaN， ''， 0， -0，其他所有值都转为 true，包括所有对象。
 2. 转换为数字：调用 x.valueOf()，如果转换为基础类型，就返回转换的值
 3. 转换为字符串： 调用 x.toString()，如果转换为基础类型，就返回转换的值
 
-this：
+**this**：
 
 ```js
 function foo() {
