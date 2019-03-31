@@ -37,9 +37,10 @@ const p2 = test(p1)
 所以最后 person 拥有了一个新的地址（指针），也就和 p1 没有任何关系了，导致了最终两个变量的值是不相同的。
 
 - typeof 和 instanceof
+
 typeof 对于原始类型来说，除了 null 都可以显示正确的类型
 
-```JavaScript
+```js
 typeof 1 // 'number'
 typeof '1' // 'string'
 typeof undefined // 'undefined'
@@ -50,7 +51,7 @@ typeof Symbol() // 'symbol'
 typeof 对于对象来说，除了函数都会显示 object，所以说 typeof 并不能准确判断变量到底是什么类型
 如果我们想判断一个对象的正确类型，这时候可以考虑使用 instanceof，因为内部机制是通过原型链来判断的
 
-```JavaScript
+```js
 const Person = function() {}
 const p1 = new Person()
 p1 instanceof Person // true
