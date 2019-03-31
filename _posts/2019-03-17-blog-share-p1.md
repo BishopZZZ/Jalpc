@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JavaScript 知识点总结"
+title:  "JavaScript 知识点总结（一）"
 date:   2019-03-10
 desc: "Frontend Basics"
 keywords: "JavaScript,website,blog,easy"
@@ -8,7 +8,7 @@ categories: [Frontend]
 tags: [JavaScript]
 icon: icon-JavaScript
 ---
-# JavaScript 知识点总结
+# JavaScript 知识点总结(一)
 
 - 原始类型：
 Boolean, null, undefined, number, string, symbol
