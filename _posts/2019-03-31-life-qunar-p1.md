@@ -15,7 +15,6 @@ icon: icon-html
 
 ![UOM](https://user-images.githubusercontent.com/40975373/55287955-fe4f0900-53fb-11e9-9fe1-45625d42af78.jpeg){:height="70%" width="70%"}
 
-![UOM](https://user-images.githubusercontent.com/40975373/55287962-16bf2380-53fc-11e9-8894-50e298696051.jpeg){:height="70%" width="70%"}
 
 </div>
 
