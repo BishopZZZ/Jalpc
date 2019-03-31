@@ -17,7 +17,7 @@ Boolean, null, undefined, number, string, symbol
 除了原始类型以外都是对象类型。不同之处是原始类型存储的是值，对象类型存储的是地址。
 例子：
 
-```JavaScript
+```js
 function test(person) {
   person.age = 26
   person = {
