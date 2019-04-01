@@ -33,7 +33,7 @@
 - name: Machine Learning 
   i18n: cpython
   gh_user: yiming95
-  repo: Machine-Learning
+  repo: Machine learning
   img: /static/assets/img/landing/learning.png
   desc: Builds ANN and Decision Tree in matlab.
 
