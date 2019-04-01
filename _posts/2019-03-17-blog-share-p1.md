@@ -14,6 +14,8 @@ icon: icon-javascript
 
 Boolean, null, undefined, number, string, symbol
 
+***
+
 ### **对象类型**：
 
 除了原始类型以外都是对象类型。不同之处是原始类型存储的是值，对象类型存储的是地址。
@@ -37,6 +39,8 @@ const p2 = test(p1)
 ```
 
 所以最后 person 拥有了一个新的地址（指针），也就和 p1 没有任何关系了，导致了最终两个变量的值是不相同的。
+
+***
 
 ### **typeof 和 instanceof**：
 
@@ -65,6 +69,8 @@ var str1 = new String('hello world')
 str1 instanceof String // true
 ```
 
+***
+
 ### **类型转换**：
 
  JS 中类型转换只有三种情况，分别是：
@@ -72,6 +78,8 @@ str1 instanceof String // true
 1. 转换为布尔值： 在条件判断时，除了 undefined， null， false， NaN， ''， 0， -0，其他所有值都转为 true，包括所有对象。
 2. 转换为数字：调用 x.valueOf()，如果转换为基础类型，就返回转换的值
 3. 转换为字符串： 调用 x.toString()，如果转换为基础类型，就返回转换的值
+
+***
 
 ### **this**：
 
@@ -107,5 +115,3 @@ console.log(a()()())
 ```
 
 首先箭头函数其实是没有 this 的，箭头函数中的 this 只取决包裹箭头函数的第一个普通函数的 this。在这个例子中，因为包裹箭头函数的第一个普通函数是 a，所以此时的 this 是 window。另外对箭头函数使用 bind 这类函数是无效的。
-
----
