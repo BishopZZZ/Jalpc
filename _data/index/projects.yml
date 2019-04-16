@@ -43,3 +43,17 @@
   repo: leetcode
   img: /static/assets/img/landing/leetcode.png
   desc: Leetcode algorithm questions in java.
+
+- name: MPI project
+  i18n: cpython
+  gh_user: yiming95
+  repo: MPI-programming-project
+  img: /static/assets/img/landing/python1.png
+  desc: A MPI programming project uses gather and scatter on large twitter dataset.
+
+- name: Pomodoro web app
+  i18n: cpython
+  gh_user: yiming95
+  repo: Pomodoro
+  img: /static/assets/img/landing/html-5.png
+  desc: A pomodoro web application.
