@@ -55,5 +55,5 @@
   i18n: cpython
   gh_user: yiming95
   repo: Pomodoro
-  img: /static/assets/img/landing/html-5.png
+  img: /static/assets/img/landing/javascript.png
   desc: A pomodoro web application.
