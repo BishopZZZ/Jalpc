@@ -23,12 +23,12 @@
   img: /static/assets/img/landing/python1.png
   desc: A python project implements and analyses 6 string mactching algorithms.
 
-- name: The Deadly Sin
+- name: MPI project
   i18n: cpython
   gh_user: yiming95
-  repo: story
-  img: /static/assets/img/landing/javascript.png
-  desc: A web app for cloud based data visualisation.
+  repo: MPI-programming-project
+  img: /static/assets/img/landing/python1.png
+  desc: A MPI programming project uses gather and scatter on large twitter dataset.
 
 - name: Machine Learning 
   i18n: cpython
@@ -51,6 +51,13 @@
   img: /static/assets/img/landing/python1.png
   desc: A MPI programming project uses gather and scatter on large twitter dataset.
 
+- name: The Deadly Sin
+  i18n: cpython
+  gh_user: yiming95
+  repo: story
+  img: /static/assets/img/landing/javascript.png
+  desc: A web app for cloud based data visualisation.
+  
 - name: Pomodoro web app
   i18n: cpython
   gh_user: yiming95
