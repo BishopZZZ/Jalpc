@@ -30,6 +30,20 @@
   img: /static/assets/img/landing/python1.png
   desc: A MPI programming project uses gather and scatter on large twitter dataset.
 
+- name: Automatic Fact Verification
+  i18n: cpython
+  gh_user: yiming95
+  repo: AutomaticFactVerification
+  img: /static/assets/img/landing/python2.png
+  desc: The Fact Extraction and VERification (FEVER) Shared Task.
+
+- name: Thesis
+  i18n: cpython
+  gh_user: yiming95
+  repo: COMP90055
+  img: /static/assets/img/landing/python2.png
+  desc: Thesis topic "Machine learning for Fertility Prediction"
+
 - name: Machine Learning 
   i18n: cpython
   gh_user: yiming95
