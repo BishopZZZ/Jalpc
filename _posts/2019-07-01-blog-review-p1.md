@@ -11,8 +11,8 @@ icon: icon-javascript
 
 # Frontend Interview keypoints
 
-<p align="center"><img src="./static/assets/img/Pictures/mel.jpg" width = "15%"/>   &nbsp &nbsp &nbsp &nbsp &nbsp
-<img src="./static/assets/img/Pictures/html.png" width = "15%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/40975373/60565640-ba2b2600-9da7-11e9-91c9-41925e51b058.JPG" width = "15%"/>   &nbsp &nbsp &nbsp &nbsp &nbsp
+<img src="https://user-images.githubusercontent.com/40975373/60565672-df1f9900-9da7-11e9-8c3c-b99d32d0feaa.png" width = "15%"/></p>
 
 ## HTML
 
