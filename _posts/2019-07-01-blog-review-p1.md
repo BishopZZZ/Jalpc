@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "React 知识点总结"
+title:  "Frontend Interview: HTML"
 date:   2019-07-01
-desc: "Frontend Interview: HTML"
+desc: "Frontend Interview, HTML"
 keywords: "JavaScript,website,blog"
 categories: [Interview]
 tags: [JavaScript]
