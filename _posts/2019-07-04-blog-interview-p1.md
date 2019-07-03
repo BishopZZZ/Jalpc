@@ -141,7 +141,7 @@ React组件之间的交流方式可以分为以下三种
 2、子组件向父组件传值：子组件通过控制自己的state然后告诉父组件的点击状态。然后在父组件中展示出来，如图：
 
 
-<p align="center"><img src="./Pictures/react2.png" width = "100%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/40975373/60567250-c4035800-9dac-11e9-8f88-8bfb885e9444.png" width = "100%"/></p>
 
 3、没有任何嵌套关系的组件之间传值：如果组件之间没有任何关系，组件嵌套层次比较深（个人认为 2 层以上已经算深了），或者你为了一些组件能够订阅、写入一些信号，不想让组件之间插入一个组件，让两个组件处于独立的关系。对于事件系统，这里有 2 个基本操作步骤：订阅（subscribe）/监听（listen）一个事件通知，并发送（send）/触发（trigger）/发布（publish）/发送（dispatch）一个事件通知那些想要的组件。
 
