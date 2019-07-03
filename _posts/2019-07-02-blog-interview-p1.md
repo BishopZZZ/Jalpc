@@ -11,7 +11,7 @@ icon: icon-javascript
 
 # Frontend Interview keypoints
 
-<p align="center"><img src="https://user-images.githubusercontent.com/40975373/60565640-ba2b2600-9da7-11e9-91c9-41925e51b058.JPG">
+<p align="center"><img src="https://user-images.githubusercontent.com/40975373/60565640-ba2b2600-9da7-11e9-91c9-41925e51b058.JPG"  width = "15%"/>
 <img src="https://user-images.githubusercontent.com/40975373/60566070-0fb40280-9da9-11e9-86b2-30946a9a458b.png" width = "15%"></p>
 
 ## CSS
