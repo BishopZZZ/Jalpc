@@ -32,3 +32,14 @@
     detail: September 2017-December 2017
     i18n: company_C_date
   icon: fa-plus-square
+
+  - name:
+    detail: DarkSpede
+    i18n: company_d
+  desc:
+    detail: Web System Developer
+    i18n: company_d_desc
+  date:
+    detail: July 2019-Present
+    i18n: company_d_date
+  icon: fa-plus-square
