@@ -33,7 +33,7 @@
     i18n: company_C_date
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: DarkSpede
     i18n: company_d
   desc:
