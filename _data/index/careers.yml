@@ -37,9 +37,9 @@
     detail: DarkSpede
     i18n: company_d
   desc:
-    detail: Web System Developer
+    detail: Web System Developer, AWS, Unity, C#
     i18n: company_d_desc
   date:
-    detail: July 2019-Present
+    detail: July 2019-November 2019
     i18n: company_d_date
   icon: fa-plus-square

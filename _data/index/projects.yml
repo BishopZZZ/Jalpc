@@ -44,13 +44,6 @@
   img: /static/assets/img/landing/python2.png
   desc: Thesis topic "Machine learning for Fertility Prediction"
 
-- name: Machine Learning 
-  i18n: cpython
-  gh_user: yiming95
-  repo: Machine-Learning
-  img: /static/assets/img/landing/learning.png
-  desc: Builds ANN and Decision Tree in matlab.
-
 - name: Leetcode
   i18n: cpython
   gh_user: yiming95
@@ -58,7 +51,14 @@
   img: /static/assets/img/landing/leetcode.png
   desc: Leetcode algorithm questions in java.
 
-- name: The Deadly Sin
+- name: AR Tetris
+  i18n: cpython
+  gh_user: yiming95
+  repo: AR-Tetris
+  img: /static/assets/img/landing/unity.png
+  desc: A cross-platform mobile game app built by Unity, AR Foundation, AR core and AR Kit.
+
+- name: Big Data Visualization Web App
   i18n: cpython
   gh_user: yiming95
   repo: story
