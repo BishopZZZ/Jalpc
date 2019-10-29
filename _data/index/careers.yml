@@ -23,7 +23,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Qunar.com
+    detail: Qunar.com, Beijing
     i18n: company_c
   desc:
     detail: Intern in travelling Department As a product manager
@@ -34,10 +34,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: DarkSpede
+    detail: DarkSpede Pty Ltd, Melbourne
     i18n: company_d
   desc:
-    detail: Web System Developer, AWS, Unity, C#
+    detail: Software Engineer, AWS, Node, Unity, C#
     i18n: company_d_desc
   date:
     detail: July 2019-November 2019
